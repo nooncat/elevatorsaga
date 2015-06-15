@@ -8,6 +8,7 @@ var createEditor = function() {
         lineNumbers: true,
         indentUnit: 4,
         indentWithTabs: false,
+        keyMap: "vim",
         theme: "solarized light",
         mode: "javascript",
         autoCloseBrackets: true,
